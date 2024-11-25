@@ -26,12 +26,12 @@ Desarrollo de un proyecto de inversión para relanzar el alfajor de cerveza arte
 
 ## Flujo de caja de 12 meses
 
-![alt text](/images/Flujodecaja12meses.png)
+![alt text](/images/Flujodecaja12meses.PNG)
 
 ## Proyección de la inversión a 4 años
 
-![alt text](/images/Proyección4años.png)
+![alt text](/images/Proyección4años.PNG)
 
 ## Comentarios de especialisas
 
-![alt text](/images/ComentarioEspecialista.png)
+![alt text](/images/ComentarioEspecialista.PNG)
